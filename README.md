@@ -5,8 +5,8 @@ Spatial transcriptomics provides a new perspective to explore biological signals
 
 With Cyto-CommGCN, you can:
 
-*·* By leveraging the GCN framework and iterative clustering, Cyto-CommGCN can accurately detect spatial domains within tumor datasets and identify meaningful ligand-receptor pairs involved in critical signaling pathways.
-*·* 
+*· By leveraging the GCN framework and iterative clustering, Cyto-CommGCN can accurately detect spatial domains within tumor datasets and identify meaningful ligand-receptor pairs involved in critical signaling pathways.
+*· 
 ## Install
 
 
