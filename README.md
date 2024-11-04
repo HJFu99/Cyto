@@ -7,7 +7,9 @@ With Cyto-CommGCN, you can:
 * Identify accurate spatial domains for spatial transcriptomic tumour data independent of data from histological images
 * Find meaningful domain-specific ligand-receptor pairs under different pathways.
 ## Install
+To install package you must make sure that your version. You decide to run pytorch according your devices. In addtation, please make sure your version is compatible with. In our paper, we used 
 
+To download and install, open the terminal and use pip:
 
 ## Usage
 
